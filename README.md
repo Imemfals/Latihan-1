@@ -97,6 +97,7 @@ git remote add origin [url]
 
 	>> $ git remote add origin https://github.com/..../....git
 
+	![GitHub Logo](e.png)
 ## Push (Mengirim perubahan ke server) ##
 - Untuk mengirim perubahan pada local repository ke server gunakan
 perintah git push.
