@@ -77,6 +77,7 @@ local, gunakan perintah git commit -m “komentar commit”
 
 	>> $ git commit -m “File pertama saya”
 
+	![GitHub Logo](d.png)
 ## Membuat repository server ##
 - Server reopsitory yang akan kita gunakan adalah http://github.com
 - Anda harus membuat akun terlebih dahulu.
