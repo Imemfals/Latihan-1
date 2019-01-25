@@ -12,8 +12,10 @@ kegagalan saat menjalankan perintah git commit
 
 	>> $ git config --global user.name “nama_user”
 
+	![GitHub Logo](g.png)
 	>> $ git config --global user.email “nama_user”
 
+	![GitHub Logo](h.png)
 ## Perintah Dasar Git ##
 - git init, perintah untuk membuat repository local
 - git add, perintah untuk menambahkan file baru, atau perubahan
