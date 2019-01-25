@@ -70,6 +70,7 @@ perintah git add.
 
 	>> $ git add README.md
 
+	![GitHub Logo](f.png)
 ## Commit (Menyimpan perubahan ke database) ##
 - Untuk menyimpan perubahan yang ada kedalam database repository
 local, gunakan perintah git commit -m “komentar commit”
