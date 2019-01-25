@@ -108,6 +108,7 @@ perintah git push.
 pada akun github.com
 
 	>> $ git push -u origin master
+	![GitHub Logo](i.png)
 
 ## Melihat hasilnya pada server repository ##
 - Buka laman github.com,
