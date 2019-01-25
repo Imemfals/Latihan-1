@@ -51,6 +51,8 @@ direktori hidden dengan nama .git
 akan disimpan.
 
 	>> $ git init
+	
+	![GitHub Logo](c.png)
 
 ## Menambahkan File baru pada repository ##
 - Untuk membuat file dapat menggunakan text editor, lalu menyimpan
