@@ -40,6 +40,7 @@ directory)
 	>> $ mkdir latihan1
 
 	>> $ cd latihan1
+![GitHub Logo](Pictures/Screenshots/1.png)
 
 ## Membuat Repository Local ##
 - Jalankan perintah git init, untuk membuat repository local.
