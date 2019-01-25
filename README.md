@@ -13,7 +13,7 @@ kegagalan saat menjalankan perintah git commit
 	>> $ git config --global user.name “nama_user”
 
 	![GitHub Logo](g.png)
-	>> $ git config --global user.email “nama_user”
+	>> $ git config --global user.email “email_user”
 
 	![GitHub Logo](h.png)
 ## Perintah Dasar Git ##
