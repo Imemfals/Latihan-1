@@ -59,6 +59,7 @@ filenya pada direktori aktif (repository)
 - File README.md berhasil dibuat.
 
 	>> $ echo “#Latihan 1” >> README.md
+
 	![GitHub Logo](b.png)
 ## Menambahkan File baru pada repository ##
 - Untuk menambahkan file yang baru saja dibuat tersebut gunakan
